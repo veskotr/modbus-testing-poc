@@ -14,5 +14,7 @@
     "--query-driver=**",
     "--compile-commands-dir=c:\\projects\\Furnace_Project\\pcb-test\\build"
   ],
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "idf.pythonInstallPath": "/usr/bin/python3",
+  "idf.port": "/dev/ttyUSB0"
 }
